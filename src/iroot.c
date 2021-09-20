@@ -13,7 +13,7 @@ int iroot(int a){
 }
 
 int main(){
-    printf("Square root: %i \n", iroot(5));
+    printf("Square root: %i \n", iroot(-2));
 
     return 0;
 }
