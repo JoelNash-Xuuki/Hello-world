@@ -1,6 +1,5 @@
 # hello-world
-Just another repository
-My name is Joel and I am a software engineer.
+Just another repository.
 
 - What the project is for 
 - How to configure and install it
