@@ -1,4 +1,4 @@
-# Gello-world
+# Hello-world
 Just another repository.
 
 - What the project is for?
